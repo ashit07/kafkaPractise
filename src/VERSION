@@ -1,0 +1,5 @@
+Version: ${version}
+Git commit Id: ${revision}
+Git branch: ${branch}
+Build-date: ${buildDate.format('dd-MM-yyyy HH:mm:ss')}
+Application-name: ${appName}
